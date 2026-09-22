@@ -1,4 +1,5 @@
 👋 Hi, I'm Geetha Sujith
+
 Full Stack Developer | React.js | Next.js | TypeScript | Python | Django
 
 I'm a Full Stack Developer passionate about building modern, responsive, and user-friendly web applications.
@@ -6,13 +7,21 @@ I'm a Full Stack Developer passionate about building modern, responsive, and use
 I enjoy working across the frontend and backend, building REST APIs, integrating databases, implementing authentication, and turning ideas into complete web applications.
 
 🚀 About Me
+
 💻 Full Stack Developer focused on modern web development
+
 🌱 Currently building and improving full-stack applications
+
 🔭 Working with React.js, Next.js, TypeScript, Python, Django & PostgreSQL
+
 🧩 Interested in building scalable and user-friendly applications
+
 📍 Based in Dubai, UAE
+
 🎯 Currently looking for Full Stack / Frontend / Backend Developer opportunities
+
 🛠️ Tech Stack
+
 Frontend
 React.js
 Next.js
@@ -37,7 +46,9 @@ VS Code
 Postman
 Vercel
 Render
+
 🚀 Featured Projects
+
 🏢 CRM Application
 
 A full-stack CRM application for managing business relationships and sales activities.
@@ -74,14 +85,16 @@ Responsive design
 🔗 Live Demo: https://shoppy-ecommerce-flax.vercel.app/
 
 Tech: React.js · Next.js · TypeScript
-
+                            
 📚 Currently Learning
+
 Advanced Next.js
 TypeScript
 Django REST API development
 PostgreSQL
 AI-powered application development
 Full-stack application architecture
+
 📫 Connect With Me
 🌐 Portfolio: https://portfolio-geetha.vercel.app
 💼 LinkedIn: https://linkedin.com/in/geethasujith
