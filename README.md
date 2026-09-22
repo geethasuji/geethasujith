@@ -96,8 +96,12 @@ AI-powered application development
 Full-stack application architecture
 
 📫 Connect With Me
+
 🌐 Portfolio: https://portfolio-geetha.vercel.app
+
 💼 LinkedIn: https://linkedin.com/in/geethasujith
+
 📧 Email: geethasujith04@gmail.com
+
 
 ⭐️ Thanks for visiting my profile!
