@@ -1,4 +1,4 @@
-👋 Hi, I'm Geetha Sujith
+<h1 align="center">Hi 👋, I'm Geetha Sujith</h1>
 
 Full Stack Developer | React.js | Next.js | TypeScript | Python | Django
 
