@@ -68,6 +68,8 @@ Twilio integration
 
 Tech: Next.js · TypeScript · MUI · Django · PostgreSQL
 
+Live demo : https://crm-live-project-frontend-5h5x.vercel.app
+
 🛍️ SHOP.CO — Full Stack E-commerce Application
 
 An e-commerce web application with a responsive shopping experience.
