@@ -49,12 +49,11 @@ Render
 
 🚀 Featured Projects
 
-🏢 CRM Application
+🏢 **CRM Application**
 
 A full-stack CRM application for managing business relationships and sales activities.
 
 Features:
-
 Authentication & authorization
 Leads management
 Companies management
@@ -70,12 +69,29 @@ Tech: Next.js · TypeScript · MUI · Django · PostgreSQL
 
 Live demo : https://crm-live-project-frontend-5h5x.vercel.app
 
-🛍️ SHOP.CO — Full Stack E-commerce Application
+🛍️ **SHOP.CO — Individual Full Stack E-commerce Application**
+
+Developed a full-stack eCommerce application from a Figma design using React.js, Django REST Framework, Redux, and PostgreSQL.
+Implemented JWT authentication, product management, cart, checkout, order history, and REST APIs with a client-server architecture.
 
 An e-commerce web application with a responsive shopping experience.
 
 Features:
+Home page
+Product listing
+Product details
+Shopping cart
+About Us
+Contact Us
+Responsive design
 
+**SHOPPY — Next.js eCommerce Application**  
+
+Individual Mini Project | Next.js, React.js, Vercel
+
+Developed a responsive eCommerce web application using Next.js, implementing both App Router and Pages Router approaches. Built Home, Product Listing, Product Detail, Cart, About Us, and Contact Us pages with reusable components, dynamic routing, and responsive layouts. Deployed the completed application on Vercel.
+
+Features:
 Home page
 Product listing
 Product details
